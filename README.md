@@ -75,7 +75,7 @@
         {
           "name": "Georgia",
           "abbreviation": "UGA",
-          "prestige": "84",
+          "prestige": "87",
           "state": "Georgia",
           "rival": "UF",
           "headCoach": 
@@ -147,7 +147,7 @@
         {
           "name": "LSU",
           "abbreviation": "LSU",
-          "prestige": "81",
+          "prestige": "89",
           "state": "Louisiana",
           "rival": "ARK",
           "headCoach": 
@@ -299,7 +299,7 @@
         {
           "name": "Michigan",
           "abbreviation": "UM",
-          "prestige": "79",
+          "prestige": "87",
           "state": "Michigan",
           "rival": "MSU",
           "headCoach": 
@@ -323,7 +323,7 @@
         {
           "name": "Ohio State",
           "abbreviation": "OSU",
-          "prestige": "86",
+          "prestige": "88",
           "state": "Ohio",
           "rival": "PSU",
           "headCoach": 
@@ -443,7 +443,7 @@
         {
           "name": "Iowa",
           "abbreviation": "IOWA",
-          "prestige": "81",
+          "prestige": "78",
           "state": "Iowa",
           "rival": "NEB",
           "headCoach": 
@@ -547,7 +547,7 @@
         {
           "name": "Oklahoma",
           "abbreviation": "OU",
-          "prestige": "86",
+          "prestige": "89",
           "state": "Oklahoma",
           "rival": "UT",
           "headCoach": 
@@ -571,7 +571,7 @@
         {
           "name": "Texas",
           "abbreviation": "UT",
-          "prestige": "80",
+          "prestige": "85",
           "state": "Texas",
           "rival": "OU",
           "headCoach": 
@@ -617,7 +617,7 @@
           }
         },        
         {
-          "name": "Texas Christian",
+          "name": "TCU",
           "abbreviation": "TCU",
           "prestige": "79",
           "state": "Texas",
@@ -939,7 +939,7 @@
         {
           "name": "Notre Dame",
           "abbreviation": "ND",
-          "prestige": "85",
+          "prestige": "87",
           "state": "Indiana",
           "rival": "BC",
           "headCoach": 
@@ -1011,7 +1011,7 @@
         {
           "name": "Virginia",
           "abbreviation": "UVA",
-          "prestige": "73",
+          "prestige": "70",
           "state": "Virginia",
           "rival": "VT",
           "headCoach": 
@@ -1113,7 +1113,7 @@
           }
         },        
         {
-          "name": "Cal",
+          "name": "California",
           "abbreviation": "CAL",
           "prestige": "74",
           "state": "California",
@@ -1161,7 +1161,7 @@
           }
         },        
         {
-          "name": "Southern Cal",
+          "name": "USC",
           "abbreviation": "USC",
           "prestige": "66",
           "state": "California",
@@ -1289,7 +1289,7 @@
       "confTeams": 
       [        
         {
-          "name": "Central Florida",
+          "name": "UCF",
           "abbreviation": "UCF",
           "prestige": "72",
           "state": "Florida",
@@ -1313,7 +1313,7 @@
           }
         },        
         {
-          "name": "South Florida",
+          "name": "USF",
           "abbreviation": "USF",
           "prestige": "63",
           "state": "Florida",
@@ -1457,7 +1457,7 @@
           }
         },        
         {
-          "name": "Southern Methodist",
+          "name": "SMU",
           "abbreviation": "SMU",
           "prestige": "59",
           "state": "Texas",
@@ -1585,7 +1585,7 @@
           }
         },        
         {
-          "name": "Brigham Young",
+          "name": "BYU",
           "abbreviation": "BYU",
           "prestige": "55",
           "state": "Utah",
@@ -2081,7 +2081,7 @@
           }
         },        
         {
-          "name": "Florida Atlantic",
+          "name": "FAU",
           "abbreviation": "FAU",
           "prestige": "48",
           "state": "Florida",
@@ -2105,7 +2105,7 @@
           }
         },        
         {
-          "name": "Florida International",
+          "name": "FIU",
           "abbreviation": "FIU",
           "prestige": "49",
           "state": "Florida",
@@ -2531,7 +2531,7 @@
         {
           "name": "North Dakota State",
           "abbreviation": "NDSU",
-          "prestige": "28",
+          "prestige": "36",
           "state": "North Dakota",
           "rival": "SDSU",
           "headCoach": 
